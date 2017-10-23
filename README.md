@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
+## to create source translation file
+
+        "./node_modules/.bin/ng-xi18n" --i18nFormat=xlf --outFile=messages.xlf
+
 ##AOT compiler 
 
 Refer link https://github.com/angular/angular-cli/wiki/stories-internationalization 
