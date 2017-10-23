@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="674294e19aec5dff0e1f7ea7f916709d653486cc" datatype="html">
+        <source>World Map Image</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src\app\app.component.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12aa72e1bcb3990784eea7e685088388254f1f0b" datatype="html">
+        <source>We are what we repeatedly do. Excellence, therefore, is not an act but a habit. – Aristotle</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src\app\app.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description"> quotes of author</note>
+        <note priority="1" from="meaning">Quotes Title</note>
+      </trans-unit>
+      <trans-unit id="0047d202d4d383444186e785a8ac4bbe96590bd1" datatype="html">
+        <source>The best way out is always through. – Robert Frost</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src\app\app.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c999cd15caf662032f3eb4dc5df1fa0247967629" datatype="html">
+        <source>Do not wait to strike till the iron is hot; but make it hot by striking. – William B. Sprague</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src\app\app.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="08f040fa41b228701b667729923443d1eea0c6b8" datatype="html">
+        <source> Whether you think you can or think you can’t, you’re right. – Henry Ford</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src\app\app.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e10104bdee5b176b898bcf2e48d2ff2b7c3a17fd" datatype="html">
+        <source>I know for sure that what we dwell on is who we become. – Oprah Winfrey</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src\app\app.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

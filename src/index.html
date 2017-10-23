@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>InternationalizationSample</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script src="https://unpkg.com/core-js/client/shim.min.js"></script>
+  <script src="https://unpkg.com/systemjs@0.19.39/dist/system.src.js"></script>
+  <base href="/">
+  <script>
+    // Get the locale id somehow
+    document.locale = 'ge';
+
+    // Map to the text plugin
+    //Uncomment if not AOT and to enable JIT compiler
+   /* System.config({
+      map: {
+        text: 'systemjs-text-plugin.js'
+      }
+    });*/
+
+    // Launch the app
+    //System.import('main.bundle.js').catch(function (err) { console.error(err); });
+  </script>
+  
+</head>
+
+<body>
+  <app-root></app-root>
+</body>
+
+</html>
